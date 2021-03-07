@@ -3,18 +3,21 @@ function ArticleTopUI(){
     <div style="
       display: flex;
       flex-direction: column;
-      width: 28vw;
+      
     ">
-      <div class="top">
-        <h3>Should you go vegan?</h3>
+      <div>
+        <p style="
+          font-weight: bold;
+          font-family: sans-serif;
+          font-size: 40px;
+        ">Should you go vegan?</p>
       </div>
 
       <div style="
         display: flex;
         flex-direction: row;
-        border: 1px solid black;
         align-items: center;
-      " class="middle">
+      ">
         <div>
           <img src="https://med-fom-surgery.sites.olt.ubc.ca/files/2014/02/ChenJ2014-273x300.jpeg" style="border-radius: 50%; height: 60px"/>
         </div>
@@ -28,7 +31,7 @@ function ArticleTopUI(){
         </div>
       </div>
 
-      <div class="bottom">
+      <div>
         <p style="
           font-family: Roboto;
           font-style: italic;
@@ -40,4 +43,4 @@ function ArticleTopUI(){
   `
 }
 
-export const ArticleTop = ArticleTopUI();
+// export const ArticleTop = ArticleTopUI();

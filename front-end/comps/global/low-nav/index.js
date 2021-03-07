@@ -4,7 +4,8 @@ function LowerNavUI(){
         display: flex;
         flex-direction: row;
         background-color: #d1cfcb;
-        width: 490px;
+        width: 110%;
+        height: 80px;
         justify-content: center;
         align-items: center;
         "
@@ -17,12 +18,12 @@ function LowerNavUI(){
           justify-content: center;
           align-items: center;
           margin: 10px;
-          margin-top: 20px;
+          margin-top: 25px;
         "
         >
           <img src="https://cdn4.iconfinder.com/data/icons/pictype-free-vector-icons/16/home-512.png" style="
-            width: 50px;
-            height: 50px;
+            width: 20px;
+            height: 20px;
           "/>
           <p style="
             color: black;
@@ -44,8 +45,8 @@ function LowerNavUI(){
         "
         >
           <img src="https://cdn3.iconfinder.com/data/icons/glypho-free/64/map-pin-marker-circle-512.png" style="
-            width: 50px;
-            height: 50px;
+            width: 25px;
+            height: 25px;
           "/>
           <p style="
             color: black;
@@ -67,8 +68,8 @@ function LowerNavUI(){
         "
         >
           <img src="https://cdn.iconscout.com/icon/free/png-256/shopping-cart-452-1163339.png" style="
-            width: 50px;
-            height: 50px;
+            width: 25px;
+            height: 25px;
           "/>
           <p style="
             color: black;
@@ -90,8 +91,8 @@ function LowerNavUI(){
         "
         >
           <img src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/user-512.png" style="
-            width: 50px;
-            height: 50px;
+            width: 25px;
+            height: 25px;
           "/>
           <p style="
             color: black;
@@ -104,4 +105,4 @@ function LowerNavUI(){
     `
 }
 
-export const LowerNav = LowerNavUI();
+// export const LowerNav = LowerNavUI();
