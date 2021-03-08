@@ -59,9 +59,96 @@ h2{
     width: 80vw;
 }
 
+.cabbage{
+        position: absolute;
+        z-index: 1;
+        width: 25vw;
+        left: 5vw;
+        top: 150vw;
+}
+
 .chicken{
     position: absolute;
     z-index: 1;
-    right: 2vw;
-    top: 210vw;
+    right: 5vw;
+    top: 230vw;
+}
+
+hr{
+    background-color: #6C6C6C;
+    border: 0.5vw solid #6C6C6C;
+    width: 80vw;
+}
+
+.mountain{
+    width: 40vw;
+    padding: 10vw 0;
+}
+
+.house{
+    width: 25vw;
+    position: absolute;
+    z-index: 2;
+    left: 5vw;
+    top: 274vw;
+}
+
+.barn{
+    width: 25vw;
+    position: absolute;;
+    z-index: 2;
+    right: 10vw;
+    top: 269vw;
+}
+
+.car{
+    width: 25vw;
+    position: absolute;;
+    z-index: 2;
+    left: 30vw;
+    top: 280vw;
+}
+
+.problem{
+    font-size: 6vw;
+    position: relative;
+}
+
+.changes{
+    width: 50vw;
+    position: relative;
+    left: 15vw;
+    font-size: 5vw;
+    padding: 0;
+}
+
+.earth{
+    position: absolute;
+    z-index: 1;
+    left: 5vw;
+    width: 35vw;
+    top: 350vw;
+}
+
+.city{
+    position: absolute;
+    z-index: 1;
+    width: 80vw;
+    left: 12vw;
+}
+
+.clouds{
+    position: absolute;
+    z-index: 2;
+    width: 50vw;
+    top: 400vw;
+}
+
+.cloud2{
+    left: 1vw;
+}
+
+.challenge{
+    position: relative;
+    right: 13vw;
 }
