@@ -1,0 +1,15 @@
+html{
+    margin: 0;
+}
+
+body{
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    margin: 10vw;
+}
+
+.logo{
+    width: 50vw;
+    margin: 10vw 0;
+}
