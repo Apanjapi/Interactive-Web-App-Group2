@@ -22,11 +22,8 @@ function LowerNavUI(){
           margin-top: 25px;
         "
         >
-          <a href="../../main-page.html">
-            <img src="https://cdn4.iconfinder.com/data/icons/pictype-free-vector-icons/16/home-512.png" style="
-            width: 20px;
-            height: 20px;
-            "/>
+          <a href="">
+
           </a>
           <p style="
             color: black;
