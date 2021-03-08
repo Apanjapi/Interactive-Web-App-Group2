@@ -11,7 +11,7 @@ body{
     background-color: #B6D49E;
 }
 
-h1, h2, div, p{
+h1, h2, h3, div, p{
     text-align: center;
 }
 
@@ -151,4 +151,16 @@ hr{
 .challenge{
     position: relative;
     right: 13vw;
+    width: 65vw;
+    margin: 0;
+    font-size: 4vw;
+}
+
+.nomargin{
+    margin: 0;
+}
+
+h3{
+    width: 80vw;
+    font-size: 6vw;
 }
