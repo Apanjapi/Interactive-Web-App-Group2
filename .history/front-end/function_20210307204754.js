@@ -1,0 +1,3 @@
+document.querySelector(".top").innerHTML += ArticleTopUI(); 
+document.querySelector(".bottom").innerHTML += ArticleUI(); 
+document.querySelector(".middle").innerHTML += ImageUI(); 

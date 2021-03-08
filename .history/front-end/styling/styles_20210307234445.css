@@ -1,0 +1,9 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    margin-left: 15px;
+}
+
+#main {
+    width: 30vw;
+}

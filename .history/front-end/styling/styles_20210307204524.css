@@ -1,0 +1,21 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+#main {
+    width: 30vw;
+}
+
+.top {
+    flex: 1;
+}
+
+.middle {
+    display: flex;
+    flex-direction: column;
+}
+
+.bottom {
+    flex: 1;
+}

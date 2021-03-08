@@ -1,0 +1,25 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.article {
+    display: flex;
+    flex-direction: column;
+}
+
+#main {
+    width: 30vw;
+}
+
+.top {
+
+}
+
+.middle {
+
+}
+
+.bottom {
+
+}

@@ -1,1 +1,0 @@
-import {LowerNav} from '../comps/global/'

@@ -1,0 +1,36 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 450px;
+}
+
+#main {
+    display: flex;
+    flex-direction: column;
+    object-fit: cover;
+}
+
+.low-nav {
+    position: sticky;
+    bottom: 0px;
+}
+
+.product-cards {
+    background-color: red;
+}
+
+.search-bar {
+    
+}
+
+.test {
+    /* width: 500px; */
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.product-cards {
+    display: flex;
+    flex-direction: row;
+}

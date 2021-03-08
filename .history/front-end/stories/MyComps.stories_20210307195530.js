@@ -1,0 +1,13 @@
+import {LowerNav} from '../comps/global/low-nav';
+import {ArticleTop} from '../comps/article/top';
+import {Article} from '../comps/article/article';
+import {Image} from '../comps/article/article-img';
+
+export default {
+    title: "Components"
+}
+
+export const MyLowerNav = () => LowerNav;
+export const MyArticleTop = () => ArticleTop;
+export const MyArticle = () => Article;
+export const MyArticle = () => Article;

@@ -1,0 +1,25 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+#main {
+    display: flex;
+    flex-direction: column;
+    object-fit: cover;
+}
+
+.low-nav {
+    position: sticky;
+    bottom: 0px;
+}
+
+.product-cards {
+    background-color: red;
+}
+
+.test {
+    /* width: 500px; */
+    display: flex;
+    dfle
+}

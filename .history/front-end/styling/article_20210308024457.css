@@ -1,0 +1,45 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    margin-left: 15px;
+    width: 400px;
+}
+
+#main {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    /* margin-left: 500px;
+    margin-left: 500px; */
+}
+
+.article {
+    width: 100%;
+}
+
+.top, .middle, .image, .bottom {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.top {
+    margin-top: 100px;
+}
+
+.bottom {
+    flex-direction: column;
+    font-size: 20px;
+}
+
+.low-nav {
+    position: sticky;
+    bottom: 0px;
+}
+
+@media only screen and (min-width:320px){
+    
+}

@@ -1,0 +1,6 @@
+function SearchBarUI()
+{
+    return `
+    
+    `
+}

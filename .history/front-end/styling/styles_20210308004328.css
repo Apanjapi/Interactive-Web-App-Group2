@@ -1,0 +1,10 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    margin-left: 15px;
+    font-family: Roboto;
+}
+
+#main {
+    width: 3;
+}
