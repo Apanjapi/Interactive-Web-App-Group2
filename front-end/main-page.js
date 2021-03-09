@@ -1,4 +1,4 @@
-import { ArticlePreview } from "./comps/main-page/article-preview";
+
 
 document.querySelector(".top-nav").innerHTML += TopNavUI(); 
 document.querySelector(".low-nav").innerHTML += LowerNavUI(); 

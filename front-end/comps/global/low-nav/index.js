@@ -8,6 +8,7 @@ function LowerNavUI(){
         height: 80px;
         justify-content: center;
         align-items: center;
+
         "
       >
         <div style="

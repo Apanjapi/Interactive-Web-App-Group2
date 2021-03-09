@@ -6,6 +6,8 @@ import {ArticleTop} from '../comps/article/top';
 import {Article} from '../comps/article/article';
 import {Image} from '../comps/article/article-img';
 import {ArticlePreview} from '../comps/main-page/article-preview';
+import {StoreCard} from '../comps/proximity/store-card';
+import {LocationMap} from '../comps/proximity/map-img';
 
 export default {
     title: "Components"
@@ -19,3 +21,5 @@ export const MyArticleTop = () => ArticleTop;
 export const MyArticle = () => Article;
 export const MyArticlePreview = () => ArticlePreview;
 export const MyImage = () => Image;
+export const MyStoreCard = () => StoreCard;
+export const MyLocationMap =() => LocationMap;

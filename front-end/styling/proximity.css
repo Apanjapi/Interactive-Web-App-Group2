@@ -1,0 +1,17 @@
+#main {
+    margin:0;
+}
+
+.cards{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column;
+    
+}
+
+.low-nav {
+    position: sticky;
+    bottom:0px;
+    
+}
