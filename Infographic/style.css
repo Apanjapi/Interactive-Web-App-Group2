@@ -1,6 +1,7 @@
 html{
     margin: 0;
     font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    overflow-x: hidden;
 }
 
 body{
@@ -49,6 +50,7 @@ h1{
 .scroll{
     margin: 0 1vw;
     width: 6vw;
+    z-index: 1;
 }
 
 h2{
@@ -107,6 +109,16 @@ hr{
     z-index: 2;
     left: 30vw;
     top: 290vw;
+    animation: travel 5s infinite; delay iteration-count direction fill-mode;
+}
+
+@keyframes travel{
+    from{
+        left: 70%;
+    }
+    to{
+        left: 20%;
+    }
 }
 
 .problem{
@@ -142,10 +154,22 @@ hr{
     z-index: 2;
     width: 50vw;
     top: 415vw;
+    animation: cloud 5s infinite;
 }
 
-.cloud2{
-    left: 1vw;
+@keyframes cloud{
+    0%{
+        left: 20%;
+    }
+    40%{
+        left: 10%;
+    }
+    80%{
+        left: 20%;
+    }
+    100%{
+
+    }
 }
 
 .challenge{
@@ -179,6 +203,16 @@ h3{
     width: 20vw;
     top: 500vw;
     right: 2vw;
+    animation: give 3s infinite;
+}
+
+@keyframes give{
+    from{
+        transform: scaleX(0.8) scaleY(0.8);
+    }
+    to{
+        transform: scaleX(1) scaleY(1);
+    }
 }
 
 .house2{
