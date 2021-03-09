@@ -159,13 +159,13 @@ hr{
 
 @keyframes cloud{
     0%{
-        left: 20%;
+        left: 50%;
     }
     40%{
-        left: 10%;
+        left: 0%;
     }
     80%{
-        left: 20%;
+        left: 50%;
     }
     100%{
 
