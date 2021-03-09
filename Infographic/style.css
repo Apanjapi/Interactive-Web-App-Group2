@@ -90,7 +90,7 @@ hr{
     position: absolute;
     z-index: 2;
     left: 5vw;
-    top: 274vw;
+    top: 283vw;
 }
 
 .barn{
@@ -98,7 +98,7 @@ hr{
     position: absolute;;
     z-index: 2;
     right: 10vw;
-    top: 269vw;
+    top: 278vw;
 }
 
 .car{
@@ -106,7 +106,7 @@ hr{
     position: absolute;;
     z-index: 2;
     left: 30vw;
-    top: 280vw;
+    top: 290vw;
 }
 
 .problem{
@@ -127,7 +127,7 @@ hr{
     z-index: 1;
     left: 5vw;
     width: 35vw;
-    top: 350vw;
+    top: 365vw;
 }
 
 .city{
@@ -141,7 +141,7 @@ hr{
     position: absolute;
     z-index: 2;
     width: 50vw;
-    top: 400vw;
+    top: 415vw;
 }
 
 .cloud2{
@@ -170,28 +170,28 @@ h3{
     z-index: 1;
     width: 25vw;
     right: -0.5vw;
-    top: 460vw;
+    top: 480vw;
 }
 
 .box{
     position: absolute;
     z-index: 1;
     width: 20vw;
-    top: 480vw;
+    top: 500vw;
     right: 2vw;
 }
 
 .house2{
     position: absolute;
     z-index: 3;
-    top: 600vw;
+    top: 620vw;
     left: 5vw;
 }
 
 .mountain2{
     position: absolute;
     z-index: 1;
-    top: 600vw;
+    top: 620vw;
     width: 80vw;
     left: 10vw;
 }
@@ -199,7 +199,7 @@ h3{
 .tree{
     position: absolute;
     z-index: 2;
-    top: 610vw;
+    top: 630vw;
     width: 30vw;
 }
 
@@ -216,7 +216,7 @@ h3{
 
 .float{
     position: absolute;
-    top: 675vw;
+    top: 685vw;
     left: 25vw;
     font-size: 4vw;
 }
@@ -233,7 +233,7 @@ h3{
     transform: scaleX(-1);
     position: absolute;
     z-index: 2;
-    top: 745vw;
+    top: 760vw;
     right: 25vw;
 }
 
@@ -241,7 +241,7 @@ h3{
     width: 10vw;
     position: absolute;
     z-index: 2;
-    top: 720vw;
+    top: 730vw;
     left: 8vw;
     transform: rotate(20deg);
 }
@@ -250,6 +250,6 @@ h3{
     width: 30vw;
     position: absolute;
     z-index: 2;
-    top: 710vw;
+    top: 720vw;
     right: 10vw;
 }
