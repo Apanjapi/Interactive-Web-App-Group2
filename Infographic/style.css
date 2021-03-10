@@ -92,7 +92,7 @@ hr{
     position: absolute;
     z-index: 2;
     left: 5vw;
-    top: 283vw;
+    top: 200vw;
 }
 
 .barn{
@@ -250,7 +250,7 @@ h3{
 
 .float{
     position: absolute;
-    top: 685vw;
+    top: 690vw;
     left: 30vw;
     font-size: 4vw;
 }
